@@ -14,12 +14,12 @@
 
 ---
 
-## 2. Lara Acosta
-- **LinkedIn:** https://www.linkedin.com/in/laraacosta/
-- **Website:** https://www.lara-acosta.com
-- **Why:** Grew from 0 to 200K+ followers in under 2 years while building a LinkedIn growth agency. Shares detailed breakdowns of carousel formats, hook formulas, and how she converts followers into B2B clients. Posts real data from her own growth and client results.
-- **Signal strength:** High. Transparent about what works and what doesn't, with actual numbers.
-- **Topics covered:** Hook writing, carousel strategy, personal branding for B2B, follower-to-pipeline conversion
+## 2. Chris Walker
+- **LinkedIn:** https://www.linkedin.com/in/chriswalker171/
+- **Podcast:** Demand Gen Live
+- **Why:** Built Refine Labs (B2B demand gen agency) using LinkedIn as the sole acquisition channel. Later exited and built Passetto using the same playbook. One of the strongest case studies of LinkedIn organic actually driving pipeline for B2B SaaS at scale.
+- **Signal strength:** Very high. Built two companies with this strategy — not just advising on it.
+- **Topics covered:** Dark social, demand generation, LinkedIn as a B2B GTM channel, pipeline attribution
 
 ---
 
@@ -32,65 +32,66 @@
 
 ---
 
-## 4. Chris Walker
-- **LinkedIn:** https://www.linkedin.com/in/chriswalker171/
-- **Podcast:** Demand Gen Live
-- **Why:** Built Refine Labs (B2B demand gen agency) using LinkedIn as the sole acquisition channel. Later exited and built Passetto using the same playbook. One of the strongest case studies of LinkedIn organic actually driving pipeline for B2B SaaS at scale.
-- **Signal strength:** Very high. Built two companies with this strategy — not just advising on it.
-- **Topics covered:** Dark social, demand generation, LinkedIn as a B2B GTM channel, pipeline attribution
-
----
-
-## 5. Katelyn Bourgoin
-- **LinkedIn:** https://www.linkedin.com/in/katelynnatividad/
-- **Newsletter:** Customer Camp
-- **Why:** Focuses on buyer psychology — explains why certain LinkedIn content converts in B2B and what makes buyers pay attention vs. scroll past. Provides a framework for content decisions rooted in behavioral science, not just content tips.
-- **Signal strength:** High. Unique angle that most LinkedIn creators don't cover.
-- **Topics covered:** Buyer psychology, B2B messaging, why content converts, decision-making triggers
-
----
-
-## 6. Amanda Natividad
+## 4. Amanda Natividad
 - **LinkedIn:** https://www.linkedin.com/in/amandanat/
-- **Employer:** SparkToro (VP Marketing)
-- **Why:** Actually runs LinkedIn organic as VP Marketing at SparkToro, a B2B SaaS tool. Rare because she's a practitioner at a real company, not a personal brand creator. Her content documents what works in practice, with direct accountability to business results.
+- **Employer:** SparkToro (Chief Evangelist)
+- **Why:** Coined the term "Zero Click Marketing" and practices it daily at SparkToro, a B2B SaaS tool. Rare because she's a practitioner at a real company, not a personal brand creator. Her content documents what works in practice, with direct accountability to business results.
 - **Signal strength:** High. Real in-house B2B SaaS context.
-- **Topics covered:** B2B content marketing, audience research, organic social strategy, brand building for SaaS
+- **Topics covered:** Zero click marketing, B2B content strategy, audience research, organic social for SaaS
 
 ---
 
-## 7. Armand Farrokh
-- **LinkedIn:** https://www.linkedin.com/in/armandfarrokh/
-- **Podcast:** 30 Minutes to President's Club
-- **Why:** Former VP Sales who transitioned to LinkedIn content creation. His posts specifically connect LinkedIn organic content to shortened B2B sales cycles — a perspective rarely documented this concretely. Strong on how content reduces friction in the sales process.
-- **Signal strength:** High. Sales background gives him a unique angle on content ROI.
-- **Topics covered:** LinkedIn content for sales pipeline, B2B sales enablement, outbound + content synergy
-
----
-
-## 8. Gaetano DiNardi
-- **LinkedIn:** https://www.linkedin.com/in/gaetanodinardi/
-- **Background:** ex-Head of Growth at Cognism, Nextiva, Sales Hacker
-- **Why:** Has held senior growth roles at multiple B2B SaaS companies and documented results publicly on LinkedIn. Strong on measuring how LinkedIn organic actually impacts pipeline — brings an operator lens, not a creator lens.
-- **Signal strength:** High. Multiple in-house B2B SaaS growth roles with real accountability.
-- **Topics covered:** B2B growth, pipeline measurement, content-led growth, demand generation
-
----
-
-## 9. Matt Ragland
+## 5. Matt Ragland
 - **LinkedIn:** https://www.linkedin.com/in/mattragland/
 - **YouTube:** https://www.youtube.com/@MattRagland
-- **Why:** Specializes in helping SaaS founders convert LinkedIn content into actual revenue. Shares concrete case studies on posting frequency, format performance, and how to build a B2B audience that buys. Practical and specific.
-- **Signal strength:** Medium-high. Strong practitioner content, slightly smaller track record than top names.
-- **Topics covered:** Revenue from LinkedIn, SaaS founder content, content-to-revenue systems
+- **Why:** Specializes in helping SaaS founders and creators convert LinkedIn content into actual revenue. Shares concrete case studies on positioning offers, email systems, and content-to-revenue conversion. Practical and specific.
+- **Signal strength:** Medium-high. Strong practitioner content with real client examples.
+- **Topics covered:** Content-to-revenue systems, offer positioning, email marketing, creator business strategy
 
 ---
 
-## 10. Tamilore Oladipo
-- **LinkedIn:** https://www.linkedin.com/in/tamiloreoladipo/
-- **Why:** Underrated but high signal. Focuses on how B2B SaaS brands (not just founder personal brands) grow organically on LinkedIn. Addresses the team content angle that most creators ignore. Important perspective for companies that can't rely on a single founder's personal brand.
-- **Signal strength:** Medium-high. Unique angle, strong specificity.
-- **Topics covered:** B2B brand content on LinkedIn, content team strategy, brand voice for SaaS
+## 6. Dave Gerhardt
+- **LinkedIn:** https://www.linkedin.com/in/davegerhardt/
+- **Community:** Exit Five (B2B marketing community)
+- **Why:** Former CMO at Drift and Privy, now runs Exit Five — the largest B2B marketing community. Has done 300+ hours of interviews with B2B CMOs and VPs. His content is grounded in real operator experience, not theory. Strong on brand building and content strategy for B2B.
+- **Signal strength:** Very high. Decade of in-house B2B SaaS marketing leadership.
+- **Topics covered:** B2B brand building, content strategy, channel selection, marketing leadership
+
+---
+
+## 7. Jasmin (Jay) Alić
+- **LinkedIn:** https://www.linkedin.com/in/alicjasmin/
+- **Community:** Link Up (1,000+ members, 80+ countries)
+- **Why:** Grew to 366,000+ LinkedIn followers with zero automation, 1,000+ manual comments per week, and 3-4 posts per week over 5 years. One of the most transparent practitioners about the actual effort required to build on LinkedIn organically. Strong on engagement systems and community building.
+- **Signal strength:** High. Fully documented growth journey with real numbers.
+- **Topics covered:** Organic LinkedIn growth, engagement strategy, community building, content consistency
+
+---
+
+## 8. Dickie Bush
+- **LinkedIn:** https://www.linkedin.com/in/dickiebush/
+- **Program:** Ship 30 for 30, Premium Ghostwriting Academy
+- **Why:** Built an 8-figure business teaching writing and ghostwriting, with LinkedIn as a primary channel. Created detailed systems for personal branding on LinkedIn using AI tools. Strong on content frameworks, audience building, and monetization through writing.
+- **Signal strength:** High. Real business results with documented student outcomes.
+- **Topics covered:** LinkedIn personal brand building, content frameworks, AI-assisted writing, ghostwriting systems
+
+---
+
+## 9. Nicolas Cole
+- **LinkedIn:** https://www.linkedin.com/in/nicolascole77/
+- **Background:** Self-published 11 books, co-founded Premium Ghostwriting Academy
+- **Why:** One of the pioneers of LinkedIn ghostwriting as a business model. Has worked with CEOs, Silicon Valley founders, and NYT best-selling authors. Strong on writing craft, content differentiation, and why human perspective beats AI-generated content.
+- **Signal strength:** High. Long track record in digital writing and ghostwriting industry.
+- **Topics covered:** Writing craft, content differentiation, ghostwriting for executives, LinkedIn content strategy
+
+---
+
+## 10. Kieran Flanagan
+- **LinkedIn:** https://www.linkedin.com/in/kieranjflanagan/
+- **Background:** Former SVP Marketing at HubSpot, now advisor and operator
+- **Why:** Brings a rare combination of enterprise B2B SaaS marketing experience (HubSpot) and deep AI fluency. His content bridges the gap between LinkedIn organic strategy and AI-powered marketing workflows — highly relevant for B2B SaaS teams scaling content operations.
+- **Signal strength:** Very high. Senior operator background at one of the most respected B2B SaaS companies.
+- **Topics covered:** AI in marketing, owned audience building, marketing leadership, B2B content strategy
 
 ---
 
